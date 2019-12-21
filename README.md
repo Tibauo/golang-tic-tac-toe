@@ -5,9 +5,11 @@ Play tic tac toe
 [https://en.wikipedia.org/wiki/Tic-tac-toe](https://en.wikipedia.org/wiki/Tic-tac-toe)
 
 ## How to build
+```
 [Tibauo]$ go build --o tic-tac-toe
 [Tibauo}$ ls
 morpion  morpion.go  src  tic-tac-toe
+```
 
 ## How to run
 ```
