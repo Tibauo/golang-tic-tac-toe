@@ -45,6 +45,7 @@ i 1 |_|X|X|
 ```
 
 ## Debug
+```
 go test
 You Win player :  1
 You Win player :  1
@@ -55,3 +56,4 @@ You Win player :  1
 You Win player :  1
 PASS
 ok  	morpion	0.002s
+```
